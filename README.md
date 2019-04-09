@@ -24,3 +24,7 @@ Projet de fusion d'images thermique et visible.
 
 ##Boîtier
 Le modèle du boîtier a été récupéré sur GrabCAD ([disponible ici](https://grabcad.com/library/laser-cut-wood-case-for-raspberry-pi-3-1)) puis modifié pour être adapté au bois disponible au FabLab
+
+##Auteurs
+[Yann Ducruy](https://github.com/yannou38)
+[Rémi Segretain](https://github.com/Tixp)

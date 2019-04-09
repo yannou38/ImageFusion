@@ -22,9 +22,9 @@ Projet de fusion d'images thermique et visible.
 - exécuter **./thermalCam** pour prendre une photo. L'image prise par la caméra classique est écrite dans le fichier **test.bmp** et l'image éditée avec les informations de température est écrite dans le fichier **testIR.bmp**
 
 
-##Boîtier
+## Boîtier
 Le modèle du boîtier a été récupéré sur GrabCAD ([disponible ici](https://grabcad.com/library/laser-cut-wood-case-for-raspberry-pi-3-1)) puis modifié pour être adapté au bois disponible au FabLab
 
-##Auteurs
-[Yann Ducruy](https://github.com/yannou38)
-[Rémi Segretain](https://github.com/Tixp)
+## Auteurs
+- [Yann Ducruy](https://github.com/yannou38)
+- [Rémi Segretain](https://github.com/Tixp)

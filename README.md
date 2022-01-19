@@ -27,4 +27,4 @@ Le modèle du boîtier a été récupéré sur GrabCAD ([disponible ici](https:/
 
 ## Auteurs
 - [Yann Ducruy](https://github.com/yannou38)
-- [Rémi Segretain](https://github.com/Tixp)
+- [Rémi Segretain](https://github.com/rsegretain)
